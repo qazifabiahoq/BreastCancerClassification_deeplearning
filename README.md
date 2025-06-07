@@ -8,7 +8,7 @@ This project aims to build a deep learning model for classifying breast cancer i
 
 ## 📦 Dataset Overview
 
-* **Source**: The dataset was obtained from a **Udemy course on medical imaging and deep learning**.
+* **Source**: The dataset was obtained from https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/
 * **Type**: Histopathological images of breast tissue.
 * **Classes**:
 
